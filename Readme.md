@@ -1,5 +1,5 @@
 # Description
-The website focuses on implementing the basics of HTML and CSS to create this stunning looking webpage.
+The Restaurant website focuses on implementing the basics of HTML and CSS .
 
 ## Time taken
 3 hours 
@@ -9,7 +9,7 @@ The website focuses on implementing the basics of HTML and CSS to create this st
 - background: linear-gradient
 - CSS flex boxes
 
-## [Live Preview](https://project01-steel.vercel.app/)
+## [Live Preview](https://project02-liard.vercel.app/)
 
 ### SnapShot of the Webpage
 
